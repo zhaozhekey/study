@@ -4,3 +4,5 @@ git add 文件名 加入暂存区
 git commit -m "做了什么" 文件名  提交
 git log 文件名  查看文件提交日志
 git log --pretty=oneline 文件名  一行显示日志
+git diff 文件名  查看当前区域与暂存区的区别
+
