@@ -13,4 +13,7 @@ git reflog 文件名 详细的描述了文件诞生的到每一步文件的操作
 git checkout -- 文件名  版本的回撤  指只在本地修改  还没有进行git add操作 恢复到未改动前
 git rm -f 文件名  删除git版本控制中的文件   
 	注意  还要进行git commit操作
+git branch  查看分支
+	git branch 名字   创建分支
+	git checkout 分支名  切换到固定分支
 
