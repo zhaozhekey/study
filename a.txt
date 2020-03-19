@@ -10,4 +10,5 @@ git reset  版本回退：
 	git reset --hard HEAD^^^ 或者 git reset --hard HEAD~3 回退三个版本
 	git reset --hard 版本的哈希码  回退到固定的版本
 git reflog 文件名 详细的描述了文件诞生的到每一步文件的操作
+git checkout -- 文件名  版本的回撤  指只在本地修改  还没有进行git add操作 恢复到未改动前
 
