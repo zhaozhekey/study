@@ -15,5 +15,5 @@ git rm -f 文件名  删除git版本控制中的文件
 	注意  还要进行git commit操作
 git branch  查看分支
 	git branch 名字   创建分支
-	git checkout 分支名  切换到固定分支
+	git checkout 分支名  切换到固定分支   
 
